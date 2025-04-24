@@ -10,4 +10,4 @@
 <!-- Styles -->
 @vite(['resources/css/app.css', 'resources/js/app.js'])
 <wireui:scripts />
-<script src="//unpkg.com/alpinejs" defer></script>
+<!-- <script src="//unpkg.com/alpinejs" defer></script> -->
