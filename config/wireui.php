@@ -1,6 +1,5 @@
 <?php
 
-use WireUi\Components;
 use WireUi\Enum\Packs;
 use WireUi\WireUiConfig as Config;
 
@@ -16,7 +15,7 @@ return [
     | 'wireui-' => 'x-wireui-button'
     | 'wireui:' => 'x-wireui:button'
     |
-     */
+    */
 
     'prefix' => null,
     'dark_mode' => false,
@@ -43,7 +42,7 @@ return [
     |
     | This option controls the default configuration for WireUI components.
     |
-     */
+    */
 
     'alert' => Config::alert(),
 
@@ -113,7 +112,7 @@ return [
     | Change the alias to call the component with a different name.
     | Extend the component and replace your changes in this file.
     |
-     */
+    */
 
     'components' => Config::defaultComponents([
         // 'button' => [

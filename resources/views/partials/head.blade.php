@@ -1,7 +1,7 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-<title>Laravel</title>
+<title>GM Back</title>
 
 <!-- Fonts -->
 <link rel="preconnect" href="https://fonts.bunny.net" />
@@ -11,4 +11,3 @@
 @vite(['resources/css/app.css', 'resources/js/app.js'])
 <wireui:scripts />
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
-<!-- <script src="//unpkg.com/alpinejs" defer></script> -->
